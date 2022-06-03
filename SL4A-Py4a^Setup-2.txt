@@ -1,0 +1,59 @@
+SL4A-Py4A^Setup-2
+
+python^SL4A-Py4a
+
+# Open Zarciver --if not installed
+>https://tinyurl.com/Zacheiver
+
+-- Premium download 
+>https://tinyurl.com/Zarciver-premmium
+                        "Part Two"
+''' Setup-2 '''
+
+# Go To '/storage/emulated/0/Downloads/'
+
+[Image 84.png]
+
+# Copy
+
+[Image 85.png]
+
+# Now go to '/sdcard/com.googlecode.pythonforandroid/'
+
+[Image 86.png]
+
+#  Open 'com.googlecode.pythonforandroid'
+
+# Paste
+
+[Image 87.png]
+
+#! if you could not paste files, try to paste them in the internal storage !
+
+[Image 88.jpg]
+
+# Open PythonForAndroid And Click on Local Install
+
+[Image 96.png]
+
+# Click on Local Install
+
+[Image 98.png]
+
+# Scripts
+
+[Image 99.jpg]
+
+# Interpreters
+
+[Image 100.jpg]
+
+# Triggers
+
+[Image 102.jpg]
+
+# Logchart
+
+[Image 103.jpg]
+
++----------X===SL4A-Py4A===X----------+

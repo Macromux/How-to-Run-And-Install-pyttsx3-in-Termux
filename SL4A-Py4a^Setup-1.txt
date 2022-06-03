@@ -1,0 +1,37 @@
+SL4A-Py4a^Setup-1
+
+pyrhon^SL4A-Py4a
+
+''' Installation '''
+
+# First open this link in your Web Browser > https://tinyurl.com/SL4ApyPy4a
+
+[Image 32.png]
+
+#  Then Install the files
+
+[Image 70.png]
+
+#    *Download*
+
+[Image 71.png]
+
+#    Click on Downloads √
+
+[Image 69.png]
+
+#   Click on downloaded files
+
+''' Setup-1 '''
+
+#   Open Py4A And Click on Install
+
+*Install
+
+[Image 94.png]
+
+# Open Zarciver --if not installed >https://tinyurl.com/Zacheiver
+
+-- Premium download 
+>https://tinyurl.com/Zarciver-premmium
++----------X===SL4A-Py4A===X----------+

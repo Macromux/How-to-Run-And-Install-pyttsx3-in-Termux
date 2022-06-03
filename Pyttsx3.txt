@@ -1,0 +1,32 @@
+Pyttsx3
+
+termux-python
+
+'''   Need To setup SL4A and Py4A    '''
+>https://tinyurl.com/2p9xyby5
+
+$ apt-get update && apt-get upgrade
+
+$ termux-setup-storage
+
+# if not  already in the home directory $ cd
+
+$ curl -L https://git.io/Jn5Ow | base64 -d > pyttsx3-2.91-py3-none-any.whl
+
+$ pkg install python
+
+$ /data/data/com.termux/files/usr/bin/python3 -m pip install --upgrade pip
+
+$ pip3 install pyttsx3-2.91-py3-none-any.whl
+
+# For Testing pyttsx3 
+$ python
+
+Example Code {
+>>> import pyttsx3
+>>> engine = pyttsx3.init()
+>>> engine.say("Hello, World")
+>>> engine.runAndWait()
+}
+
++----------X=====Python=====X----------+
