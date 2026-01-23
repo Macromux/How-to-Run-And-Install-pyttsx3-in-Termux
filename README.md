@@ -12,7 +12,7 @@ Fot setting up you need to have termux Installed from https://f-droid.org/, [her
 run ` $ apt-get update && apt-get upgrade `
 Before doing any of the following given notes.
 
-First install termux from f-droid [here](https://f-droid.org/) then 
+Install termux directly from f-droid [here](https://f-droid.org/en/packages/com.termux/) then >
 
 Try this commands in termux:
 -     apt-get update && apt-get upgrade
@@ -23,4 +23,22 @@ Try this commands in termux:
 
 -     pkg install python
 
--     
+-     /data/data/com.termux/files/usr/bin/python3 -m pip install --upgrade pip
+
+-     pip3 install pyttsx3-2.91-py3-none-any.whl
+
+Then you will need to install SL4A and PY4A form [here](https://tinyurl.com/SL4ApyPy4a).
+
+SL4A = Scripting Layer For Android
+
+Then after installing both the apk's,
+
+you can run these test code .
+
+> import pyttsx3
+
+> engine = pyttsx3.init()
+
+> engine.say("Hello, World")
+
+> engine.runAndWait()
