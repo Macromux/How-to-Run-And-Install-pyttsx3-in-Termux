@@ -14,7 +14,7 @@ Before doing any of the following given notes.
 
 Install termux directly from f-droid [here](https://f-droid.org/en/packages/com.termux/) 
 ***
-<ins>__Try this commands in termux:__</ins>
+- <ins>__Try this commands in termux:__</ins>
 -     apt-get update && apt-get upgrade
 
 -     termux-setup-storage
