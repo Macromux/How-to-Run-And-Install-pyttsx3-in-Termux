@@ -4,7 +4,7 @@ Termux._
 
 > _This repository has solutions to errors genrated by pyttsx3, To Help this project 
 Maybe give a fork and a star._
-
+---
 #### PreRequirements:
 
 You need to have termux Installed from https://f-droid.org/, [here](https://f-droid.org/) Then install termux.
@@ -13,7 +13,7 @@ run ` $ apt-get update && apt-get upgrade `
 Before doing any of the following given notes.
 
 Install termux directly from f-droid [here](https://f-droid.org/en/packages/com.termux/) 
-
+***
 __Try this commands in termux:__
 -     apt-get update && apt-get upgrade
 
@@ -31,7 +31,7 @@ Then you will need to install SL4A and PY4A form [here](https://tinyurl.com/SL4A
 
 ``` SL4A = Scripting Layer For Android ```
 
-
+---
 #### *Test code*
 
 ```python
